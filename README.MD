@@ -1,7 +1,4 @@
-Final by
-Arun,
-Ahsab,
-Aidan.
+Made in collaboration with two other programmers.
 
 
 This program simulates a crash between three autonomous vehicles. In this sitation, a car is about to crash into a truck ahead. It can decide whether to hit the truck and sacrafice its occupants, or hit one of two motorcycles to the sides.
